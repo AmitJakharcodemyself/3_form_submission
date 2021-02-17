@@ -1,0 +1,14 @@
+{
+  "name": "3_form_submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AMIT JAKHAR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
